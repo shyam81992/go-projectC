@@ -3,5 +3,5 @@ package projectc
 import "fmt"
 
 func PrintMessage() {
-	fmt.Println("message 1.2")
+	fmt.Println("message 2.1")
 }
